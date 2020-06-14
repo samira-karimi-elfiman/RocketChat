@@ -1,9 +1,14 @@
 # RocketChat
 
 Application: RocketChat 3.0.1 (web)
+
 Weakness:	Insecure Direct Object Reference (IDOR)
+
 Reported Date: Apr 7, 2020
+
 Disclosed Date:	June 14, 2020
+
+hackerone: https://hackerone.com/reports/842625
 
 # What was the Problem?
 I find user reset password hash info and other security info on "/api/v1/users.info" with low level user 
