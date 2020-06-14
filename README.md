@@ -13,6 +13,7 @@ account takeover
 
 # How do I fix it?:
 rocketchat has a fix for this: https://github.com/RocketChat/Rocket.Chat/pull/17238
+
 update your application
 
 # Exploit:
